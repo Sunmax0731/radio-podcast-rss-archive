@@ -1,0 +1,11 @@
+{
+  "product": "radio-podcast-rss-archive",
+  "title": "ラジオ・Podcast・RSS保存箱",
+  "domain": "IoT",
+  "ideaNo": 17,
+  "platformType": "iot-simulator-mock",
+  "expectedPublicTarget": "GitHub Release / 自宅LAN",
+  "browser": null,
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
