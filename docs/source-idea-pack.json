@@ -1,0 +1,38 @@
+{
+  "product": "radio-podcast-rss-archive",
+  "sourceRank": {
+    "rank": 54,
+    "tier": "P2",
+    "score": 54,
+    "domain": "IoT",
+    "ideaNo": 17,
+    "ideaName": "ラジオ・Podcast・RSS保存箱",
+    "repositoryName": "radio-podcast-rss-archive",
+    "publicTarget": "GitHub Release / 自宅LAN",
+    "priorityReason": "Pi常時収集として面白いが、権利・保存方針・容量管理の整理が必要。"
+  },
+  "initialRepositoryReadme": "not-found-at-start",
+  "exactCreatedIdeaPath": "D:\\AI\\IoT\\created_idea_017_radio-podcast-rss-archive",
+  "exactZipPath": "D:\\AI\\IoT\\created_idea_017_radio-podcast-rss-archive\\idea_017_radio-podcast-rss-archive.zip",
+  "exactCreatedIdeaPathExists": true,
+  "exactZipExists": true,
+  "fallbackSearchUsed": false,
+  "fallbackSearchResults": [],
+  "zipEntriesChecked": [
+    "metadata.json",
+    "START_PROMPT.md",
+    "README.md",
+    "01_REQUIREMENTS.md",
+    "03_DESIGN.md",
+    "04_IMPLEMENTATION_PLAN.md",
+    "05_TEST_PLAN.md",
+    "06_RELEASE_CHECKLIST.md",
+    "02_SPECIFICATION.md"
+  ],
+  "expectedZipEntriesPresent": true,
+  "metadataRepositoryName": "radio-podcast-rss-archive",
+  "metadataIdea": "ラジオ・Podcast・RSS保存箱",
+  "metadataMatchesRepository": true,
+  "markdownCopyPolicy": "Formal docs are regenerated in normal Japanese from NON_PICKUP row, metadata, and domain docs. ZIP markdown is checked but not copied verbatim.",
+  "mojibakePolicy": "Generated docs are checked by code point based scanner."
+}
